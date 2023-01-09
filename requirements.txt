@@ -1,2 +1,2 @@
-fastapi(All)
+fastapi(all)
 uvicorn
