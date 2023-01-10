@@ -10,3 +10,5 @@ def index():
 @app.get("/about")
 def about():
     return 'this is my about page'
+
+#this is my frontend
